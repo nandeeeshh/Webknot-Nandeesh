@@ -1,6 +1,3 @@
-# Webknot assignment, Nandeesh P Math - ENG21CS0263
-# DSU
-
 This project is a full-stack application that manages attendees, tasks and events. It consists of a frontend built with React and a backend built with Python Flask. Below are the steps to get the project up and running.
 
 
